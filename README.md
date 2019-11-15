@@ -1,6 +1,8 @@
 # Shop-app-template
 A template for a shop app implemented with react native and firebase
 
+<b>NOTE: This is an EXPO app</b></br>
+
 <b>Set up</b></br>
 </br>
 <b>Firebase</b></br>
@@ -27,6 +29,8 @@ const vars = {
 };
 export default vars;
 ```
+Run `npm install`
+Then run `npm start`
 
 <b>Features</b></br>
 Login/Signup with email/password</br>
